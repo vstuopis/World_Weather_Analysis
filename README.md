@@ -1,6 +1,6 @@
 # World_Weather_Analysis
 
-##New Functionality
+## New Functionality
 
 The Beta testers asked for the additional features to the PlanMyTrip app and we were able to provide the following:
 - Adding the Weather Description to the weather data returned to users
